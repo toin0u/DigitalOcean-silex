@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This file is part of the Geotools-silex library.
+ * This file is part of the DigitalOcean-silex library.
  *
  * (c) Antoine Corcy <contact@sbin.dk>
  *

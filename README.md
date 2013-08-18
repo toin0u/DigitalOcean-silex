@@ -86,5 +86,5 @@ Support
 License
 -------
 
-Geotools-silex is released under the MIT License. See the bundled
+DigitalOcean-silex is released under the MIT License. See the bundled
 [LICENSE](https://github.com/toin0u/DigitalOcean-silex/blob/master/LICENSE) file for details.

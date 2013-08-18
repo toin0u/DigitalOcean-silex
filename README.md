@@ -47,7 +47,8 @@ $app->register(new DigitalOceanServiceProvider(), array(
 Then use the [DigitalOcean API](https://github.com/toin0u/DigitalOcean#api):
 
 ```php
-$digitalOcean   = $app['digitalocean'];
+$digitalOcean = $app['digitalocean'];
+$digitalocean->setAdapter(new \HttpAdapter\BuzzHttpAdapter());
 $activeDroplets = $digitalOcean->droplets()->showAllActive();
 var_dump($activeDroplets);
 

@@ -1,7 +1,8 @@
 CHANGELOG
 =========
 
-0.0.1 (xxxx-xx-xx)
+0.1.0 (2013-08-18)
 ------------------
 
-n/a
+* update doc with an example
+* initial import

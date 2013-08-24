@@ -6,6 +6,7 @@ This package allows you to use [**DigitalOcean**](https://github.com/toin0u/Digi
 [![Latest Stable Version](https://poser.pugx.org/toin0u/DigitalOcean-silex/v/stable.png)](https://packagist.org/packages/toin0u/DigitalOcean-silex)
 [![Total Downloads](https://poser.pugx.org/toin0u/DigitalOcean-silex/downloads.png)](https://packagist.org/packages/toin0u/DigitalOcean-silex)
 [![Build Status](https://secure.travis-ci.org/toin0u/DigitalOcean-silex.png)](http://travis-ci.org/toin0u/DigitalOcean-silex)
+[![Coverage Status](https://coveralls.io/repos/toin0u/DigitalOcean-silex/badge.png)](https://coveralls.io/r/toin0u/DigitalOcean-silex)
 
 Installation
 ------------

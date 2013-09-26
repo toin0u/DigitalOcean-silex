@@ -19,10 +19,14 @@ Edit `compose.json` and add:
 ```json
 {
     "require": {
-        "toin0u/digitalocean-silex": "~0.1"
+        "toin0u/digitalocean-silex": "@stable"
     }
 }
 ```
+
+**Protip:** you should browse the
+[`toin0u/digitalocean-silex`](https://packagist.org/packages/toin0u/digitalocean-silex)
+page to choose a stable version to use, avoid the `@stable` meta constraint.
 
 And install dependecies:
 
